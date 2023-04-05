@@ -2,8 +2,8 @@ package main
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/rahmat-kurniawan/gin-api-example/handler"
-    "github.com/rahmat-kurniawan/gin-api-example/service"
+    "github.com/rsandipermana/ddt/handler"
+    "github.com/rsandipermana/ddt/service"
 )
 
 func main() {

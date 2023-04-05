@@ -1,6 +1,6 @@
 package service
 
-import "github.com/rahmat-kurniawan/gin-api-example/model"
+import "github.com/rsandipermana/ddt/model"
 
 type MaxService interface {
     FindMax(numbers []int) int

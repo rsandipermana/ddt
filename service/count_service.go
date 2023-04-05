@@ -2,7 +2,7 @@ package service
 
 import (
     "strings"
-    "github.com/rahmat-kurniawan/gin-api-example/model"
+    "github.com/rsandipermana/ddt/model"
 )
 
 type CountService interface {

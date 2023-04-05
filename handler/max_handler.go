@@ -2,8 +2,8 @@ package handler
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/rahmat-kurniawan/gin-api-example/model"
-    "github.com/rahmat-kurniawan/gin-api-example/service"
+    "github.com/rsandipermana/ddt/model"
+    "github.com/rsandipermana/ddt/service"
     "net/http"
 )
 
