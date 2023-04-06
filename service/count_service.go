@@ -2,7 +2,6 @@ package service
 
 import (
     "strings"
-    "github.com/rsandipermana/ddt/model"
 )
 
 type CountService interface {

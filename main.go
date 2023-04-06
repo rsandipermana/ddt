@@ -15,5 +15,5 @@ func main() {
     countHandler := handler.NewCountHandler(service.NewCountService())
     r.POST("/count", countHandler.CountOccurrences)
 
-    r.Run(":8080")
+    r.Run(":8081")
 }

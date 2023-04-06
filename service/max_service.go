@@ -1,7 +1,5 @@
 package service
 
-import "github.com/rsandipermana/ddt/model"
-
 type MaxService interface {
     FindMax(numbers []int) int
 }
